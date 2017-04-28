@@ -1,0 +1,10 @@
+{
+  "name": "bb_boot",
+  "version": "0.0.1",
+  "authors": [
+    "wang_hes@sina.cn"
+  ],
+  "dependencies": {
+    "react": "^15.1.0"
+  }
+}
